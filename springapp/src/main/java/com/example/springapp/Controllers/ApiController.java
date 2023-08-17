@@ -1,5 +1,7 @@
 package com.example.springapp.Controllers;
-import
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestContoller;
+
 @RestController
 
 public class ApiController {
